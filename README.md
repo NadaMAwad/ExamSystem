@@ -2,7 +2,7 @@
 
 For graduation from the Institute of Information Technology We did this project as a team: 
 - Nada M Awad 
-- Mohamed Amleslmani
+- Mohamed Almeslmani
 - Osama Badr
 - Radwa Yasser
 
