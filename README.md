@@ -1,6 +1,6 @@
-# ExamSystem
+# Exam System
 
-For graduation from the Institute of Information Technology We did this project as a team: 
+We did this project as a team for graduation from the Institute of Information Technology:
 - Nada M Awad 
 - Mohamed Almeslmani
 - Osama Badr
@@ -25,7 +25,7 @@ Fully automated examination system to perform online exams by ITI instructors an
 ![image](https://user-images.githubusercontent.com/58444526/200630338-cb10a90b-8c31-40e8-a019-a6c50a88a5e1.png)
 
 ## ERD
-The team had a good perspective on the examination system and agreed that the system should include several entities which are the following:
+The team had a good perspective on the examination system and We agreed that the system should include several entities which are the following:
 Students, Instructors, Departments, Exams, Questions, Courses.
 
 - These entities have specific relations according to the following rules:
